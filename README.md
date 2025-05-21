@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaviJoshua
 - 👀 I’m interested in Java Application Development.
-- 🌱 I’m currently learning Spring and Microservices.
+- 🌱 I’m currently exploring Spring Boot and Microservices.
 - 💞️ I’m looking to collaborate on AWS, Docker and Kubernetes.
 - 📫 How to reach me "ravi.joshua2@gmail.com"
 
